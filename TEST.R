@@ -1,6 +1,4 @@
-rm(list = ls())
-library(data.table)
-library(RMySQL)
+
 library(RJDBC)
 library(dplyr)
 library(httr)
